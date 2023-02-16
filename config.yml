@@ -1,13 +1,13 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: /
+languageCode: id-id
+title: Annas Dwi
 theme: "papermod"
 
 params:
   env: production
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Hi there 👋
+    Content: Nulis apa yang kusuka
   socialIcons:
     - name: "github"
       url: "https://www.github.com/anasdwc"
