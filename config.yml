@@ -1,0 +1,24 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: "papermod"
+
+params:
+  env: production
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+  socialIcons:
+    - name: "github"
+      url: "https://www.github.com/anasdwc"
+  ShowReadingTime: true
+  ShowToc: true
+  ShowCodeCopyButtons: true
+  author: "Annas Dwi"
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives
+      weight: 10
