@@ -11,6 +11,10 @@ params:
   socialIcons:
     - name: "github"
       url: "https://www.github.com/anasdwc"
+    - name: "twitter"
+      url: "https://www.twitter.com/anasdwc"
+    - name: "linkedin"
+      ulr: "https://linkedin.com/in/anasdwc"
   ShowReadingTime: true
   ShowToc: true
   ShowCodeCopyButtons: true
