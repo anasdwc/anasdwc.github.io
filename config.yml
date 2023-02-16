@@ -14,7 +14,7 @@ params:
     - name: "twitter"
       url: "https://www.twitter.com/anasdwc"
     - name: "linkedin"
-      ulr: "https://linkedin.com/in/anasdwc"
+      url: "https://linkedin.com/in/anasdwc"
   ShowReadingTime: true
   ShowToc: true
   ShowCodeCopyButtons: true
